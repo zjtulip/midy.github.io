@@ -1,0 +1,23 @@
+
+export const LOGIN = 'LOGIN'
+
+
+export const HOMEPAGE = 'HOMEPAGE'
+
+
+export const GROUPPROFILE = 'GROUPPROFILE'
+
+
+export const MALLTRAFFIC = 'MALLTRAFFIC'
+
+
+export const STOREANALYSIS = 'STOREANALYSIS'
+
+
+export const MEMBERANALYSIS = 'MEMBERANALYSIS'
+
+
+export const APPLICATIONSERVICE = 'APPLICATIONSERVICE'
+
+
+export const BASICSETTING = 'BASICSETTING'
